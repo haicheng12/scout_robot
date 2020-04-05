@@ -19,10 +19,8 @@ Start the robot world:
 ```
 roslaunch scout_robot scout_world.launch
 ```
-If you can't open the gazebo,you can see this blog: 
+If we can't open the gazebo,we can see this blog: 
 https://blog.csdn.net/qq_37427972/article/details/82853655
-
-And don't forget to install the graphics driver.
 
 We can teleop the robot by using this command:
 ```
