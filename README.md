@@ -34,7 +34,7 @@ Start the gmapping:
 ```
 roslaunch scout_robot gmapping.launch
 ```
-After finishing to build the map,we can save the map date by using this:
+After finishing to build the map,we can save the map data by using this:
 ```
 rosrun map_server map_saver -f map
 ```
