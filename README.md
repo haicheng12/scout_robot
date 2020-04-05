@@ -1,11 +1,11 @@
 # scout_robot
 The simulation in gazebo with scout robbot
 
-####System environment:
+System environment:
 
-*Ubuntu 16.04
-*ros kinetic
-*gazebo7
++Ubuntu 16.04
++ros kinetic
++gazebo7
 
 Required configuration environment:
 
